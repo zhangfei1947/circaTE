@@ -9,6 +9,14 @@
 Research development software. See package documentation and
 inst/doc/MODELING_HISTORY.md for the progression of empirical validation.
 }
+\seealso{
+Useful links:
+\itemize{
+  \item \url{https://github.com/zhangfei1947/circaTE}
+  \item Report bugs at \url{https://github.com/zhangfei1947/circaTE/issues}
+}
+
+}
 \author{
 \strong{Maintainer}: Phil Zhang \email{philzhang@tamu.edu}
 

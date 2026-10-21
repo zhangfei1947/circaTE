@@ -3,3 +3,4 @@
 ^\.DS_Store$
 ^.*\.Rcheck$
 ^\.gitignore$
+^LICENSE\.md$
