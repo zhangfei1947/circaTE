@@ -1,0 +1,20 @@
+Package: circaTE
+Type: Package
+Title: Paired Count and Temporal Models for Rhythmic Translational Efficiency
+Version: 0.1.0
+Authors@R: person("Phil", "Zhang", role = c("aut", "cre"), email = "philzhang@tamu.edu")
+Description: Fits fixed-period harmonic models to paired RNA sequencing and
+    ribosome profiling counts. Provides joint quasi-likelihood count models,
+    observation-precision weighted temporal generalized least squares,
+    low-count diagnostics and explicitly simulation-only empirical calibration.
+    Development software with conditional inference; does not establish
+    endogenous circadian rhythmicity or universal false discovery control.
+License: file LICENSE
+Encoding: UTF-8
+Depends: R (>= 4.4.0)
+Imports: edgeR (>= 4.4.0), limma (>= 3.62.0), statmod, stats, graphics, grDevices, utils, jsonlite, digest
+Suggests: DESeq2 (>= 1.46.0), S4Vectors, testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.3.3
+URL: https://github.com/zhangfei1947/circaTE
+BugReports: https://github.com/zhangfei1947/circaTE/issues

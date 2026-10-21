@@ -1,0 +1,5 @@
+^validation$
+^\.git$
+^\.DS_Store$
+^.*\.Rcheck$
+^\.gitignore$
