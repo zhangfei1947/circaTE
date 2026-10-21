@@ -4,3 +4,4 @@
 ^.*\.Rcheck$
 ^\.gitignore$
 ^LICENSE\.md$
+^LICENSE$
