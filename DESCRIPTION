@@ -9,7 +9,7 @@ Description: Fits fixed-period harmonic models to paired RNA sequencing and
     low-count diagnostics and explicitly simulation-only empirical calibration.
     Development software with conditional inference; does not establish
     endogenous circadian rhythmicity or universal false discovery control.
-License: MIT + file LICENCE
+License: file LICENSE
 Encoding: UTF-8
 Depends: R (>= 4.4.0)
 Imports: edgeR (>= 4.4.0), limma (>= 3.62.0), statmod, stats, graphics, grDevices, utils, jsonlite, digest
